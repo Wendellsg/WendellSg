@@ -1,21 +1,66 @@
-<h1 align="center">Olá 👋, me chamo Wendell Guimarães</h1>
-<h3 align="center">Sou desenvolvedor web full stack no Brasil 🇧🇷.</h3>
+<!--
+  ┌─────────────────────────────────────────┐
+  │  Wendell Guimarães — github profile     │
+  └─────────────────────────────────────────┘
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendellsg" alt="wendellsg" /></a> </p>
+```
+GOIÂNIA, BR · STATUS ONLINE
+```
 
-- 🔭 Trabalho atualmente na empresa [A Supernova](https://github.com/a-supernova)
+# Wendell Guimarães
 
-- 🌱 Estou atualmente estudando sobre **DevOps**
+**Tech Lead** na AUVP Capital — **Co-fundador** do FSIO.  
+Código, produto e o que aprendo usando IA pra construir os dois.
 
-- 👨‍💻 Você encontra meus projetos em [https://semfirula.app/](https://semfirula.app/)
+---
 
-- 💬 Me pergunte sobre **Nextjs, Nestjs e Typescript**
+### `01` Sobre
 
-- 📫 Fale comigo em **wendell.silva.guimaraes@gmail.com**
+Construo software em mercados difíceis: **fintech**, **healthtech**, **educação**.  
+Lidero tecnologia numa plataforma financeira com milhares de usuários e co-fundei um SaaS de saúde focado em fisioterapeutas.
 
-- 📄 Conheça minha esperiência em [https://br.linkedin.com/in/wendellsg](https://br.linkedin.com/in/wendellsg)
+Estou fundo em **desenvolvimento assistido por IA** — experimentando fluxos agênticos tanto solo quanto em time.  
+Antes disso: mais de 10 anos em motion design. O olhar que animação desenvolve ainda está no código que escrevo.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wendellsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendellsg" height="30" width="40" /></a>
-</p>
+---
+
+### `02` Stack
+
+| | |
+|---|---|
+| **Web** | React · Next.js |
+| **Backend** | Nest.js · Node.js |
+| **Mobile** | React Native |
+| **Dados** | PostgreSQL · MongoDB |
+| **IA** | Claude Code · Codex |
+| **Estudando** | Golang · LLMs |
+
+---
+
+### `03` Em produção
+
+**[AUVP Analítica](https://analitica.auvp.com.br)** — `Sócio · Tech Lead · 2024→`  
+Plataforma de análise de investimentos com cobertura de ações, FIIs, renda fixa e mercado internacional.  
+`Next.js` `Nest.js` `MySQL` `TypeScript`
+
+**[FSIO](https://fsio.app)** — `Co-fundador · 2025→`  
+SaaS para fisioterapeutas prescreverem rotinas, monitorarem adesão e acompanharem progresso em tempo real.  
+`React` `Node.js` `TypeScript` `Multi-tenant`
+
+**[Ferramentas AUVP](https://ferramentas.auvp.com.br)** — `Desenvolvedor · 2023→`  
+Calculadoras e ferramentas financeiras usadas diariamente por milhares de alunos da AUVP Escola.  
+`React` `TypeScript`
+
+---
+
+### `04` Escrita
+
+Escrevo sobre o que funciona, o que quebra e o que aprendo no processo.  
+→ [wendellguimaraes.com](https://wendellguimaraes.com)
+
+---
+
+```
+VER 2026.04
+```
