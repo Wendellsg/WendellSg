@@ -61,6 +61,42 @@ Escrevo sobre o que funciona, o que quebra e o que aprendo no processo.
 
 ---
 
+### `05` Atividade
+
+<a href="https://github.com/Wendellsg">
+  <img align="center" width="49%" src="./metrics/header.svg" />
+</a>
+<a href="https://github.com/Wendellsg">
+  <img align="center" width="49%" src="./metrics/activity.svg" />
+</a>
+<a href="https://github.com/Wendellsg">
+  <img align="center" width="49%" src="./metrics/repositories.svg" />
+</a>
+<a href="https://github.com/Wendellsg">
+  <img align="center" width="49%" src="./metrics/calendar.svg" />
+</a>
+<a href="https://github.com/Wendellsg">
+  <img align="center" width="49%" src="./metrics/languages.svg" />
+</a>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wendellsg&theme=onedark&row=1" />
+  <br/><br/>
+  <a href="https://wendellguimaraes.com">
+    <img src="https://img.shields.io/badge/Site-000?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://analitica.auvp.com.br">
+    <img src="https://img.shields.io/badge/AUVP_Anal%C3%ADtica-000?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </a>
+  <a href="https://playaeternum.com/">
+    <img src="https://img.shields.io/badge/Aeternum-000?style=for-the-badge&logo=gamedeveloper&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ```
 VER 2026.04
 ```

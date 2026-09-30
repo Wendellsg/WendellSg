@@ -1,0 +1,82 @@
+# Referência: https://github.com/lowlighter/metrics/blob/master/action.yml
+name: Metrics SVG
+
+on:
+  schedule: [{ cron: "0 * * * *" }]
+  push: { branches: [main] }
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  user: Wendellsg
+  template: classic
+  config_timezone: America/Sao_Paulo
+
+jobs:
+  header:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ env.user }}
+          template: ${{ env.template }}
+          base: header
+          config_timezone: ${{ env.config_timezone }}
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ env.user }}
+          template: ${{ env.template }}
+          base: activity, community
+          config_timezone: ${{ env.config_timezone }}
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ env.user }}
+          template: ${{ env.template }}
+          base: repositories
+          config_timezone: ${{ env.config_timezone }}
+  calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ env.user }}
+          template: ${{ env.template }}
+          base: ""
+          config_timezone: ${{ env.config_timezone }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ env.user }}
+          template: ${{ env.template }}
+          base: ""
+          config_timezone: ${{ env.config_timezone }}
+          plugin_followup: yes
+          plugin_languages: yes
