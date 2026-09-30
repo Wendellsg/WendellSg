@@ -10,7 +10,7 @@ GOIÂNIA, BR · STATUS ONLINE
 
 # Wendell Guimarães
 
-**Tech Lead** na AUVP Capital — **Criador** do [Aeternum](https://github.com/Wendellsg/aeternum).  
+**Tech Lead** na AUVP Capital — **Criador** do [Aeternum](https://playaeternum.com/).  
 Código, produto e o que aprendo usando IA pra construir os dois.
 
 ---
@@ -44,7 +44,7 @@ Antes disso: mais de 10 anos em motion design. O olhar que animação desenvolve
 Plataforma de análise de investimentos com cobertura de ações, FIIs, renda fixa e mercado internacional.  
 `Next.js` `Nest.js` `MySQL` `TypeScript`
 
-**[Aeternum](https://github.com/Wendellsg/aeternum)** — `Criador · 2026→`  
+**[Aeternum](https://playaeternum.com/)** — `Criador · 2026→`  
 Jogo diário de cartas colecionáveis: o jogador descobre o fato histórico do dia, responde a um quiz e resgata a carta, com álbum e marketplace da comunidade.  
 `Go` `React` `React Native` `PostgreSQL`
 
