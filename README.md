@@ -10,15 +10,15 @@ GOIÂNIA, BR · STATUS ONLINE
 
 # Wendell Guimarães
 
-**Tech Lead** na AUVP Capital — **Co-fundador** do FSIO.  
+**Tech Lead** na AUVP Capital — **Criador** do [Aeternum](https://github.com/Wendellsg/aeternum).  
 Código, produto e o que aprendo usando IA pra construir os dois.
 
 ---
 
 ### `01` Sobre
 
-Construo software em mercados difíceis: **fintech**, **healthtech**, **educação**.  
-Lidero tecnologia numa plataforma financeira com milhares de usuários e co-fundei um SaaS de saúde focado em fisioterapeutas.
+Construo software em mercados difíceis: **fintech**, **games**, **educação**.  
+Lidero tecnologia numa plataforma financeira com milhares de usuários e criei o Aeternum, um jogo de cartas colecionáveis baseado em fatos reais da história.
 
 Estou fundo em **desenvolvimento assistido por IA** — experimentando fluxos agênticos tanto solo quanto em time.  
 Antes disso: mais de 10 anos em motion design. O olhar que animação desenvolve ainda está no código que escrevo.
@@ -44,9 +44,9 @@ Antes disso: mais de 10 anos em motion design. O olhar que animação desenvolve
 Plataforma de análise de investimentos com cobertura de ações, FIIs, renda fixa e mercado internacional.  
 `Next.js` `Nest.js` `MySQL` `TypeScript`
 
-**[FSIO](https://fsio.app)** — `Co-fundador · 2025→`  
-SaaS para fisioterapeutas prescreverem rotinas, monitorarem adesão e acompanharem progresso em tempo real.  
-`React` `Node.js` `TypeScript` `Multi-tenant`
+**[Aeternum](https://github.com/Wendellsg/aeternum)** — `Criador · 2026→`  
+Jogo diário de cartas colecionáveis: o jogador descobre o fato histórico do dia, responde a um quiz e resgata a carta, com álbum e marketplace da comunidade.  
+`Go` `React` `React Native` `PostgreSQL`
 
 **[Ferramentas AUVP](https://ferramentas.auvp.com.br)** — `Desenvolvedor · 2023→`  
 Calculadoras e ferramentas financeiras usadas diariamente por milhares de alunos da AUVP Escola.  
